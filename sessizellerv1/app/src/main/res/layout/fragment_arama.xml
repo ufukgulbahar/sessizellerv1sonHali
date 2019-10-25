@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/liste"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/searchbar"
+
+
+        android:layout_marginTop="15dp"
+        android:scrollbars="vertical">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <EditText
+        android:id="@+id/searchbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="4dp"
+        android:ems="10"
+        android:hint="  Arama"
+        android:inputType="textPersonName"
+        android:paddingStart="5dp"
+        android:paddingLeft="5dp" />
+</RelativeLayout>

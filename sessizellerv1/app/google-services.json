@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "70698293961",
+    "firebase_url": "https://sessizellerv1.firebaseio.com",
+    "project_id": "sessizellerv1",
+    "storage_bucket": "sessizellerv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70698293961:android:65e3c3f12944004c",
+        "android_client_info": {
+          "package_name": "com.cengizhanbalci.sessizellerv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70698293961-khl49hepkohhhpug52pf6f2gormhfpvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cengizhanbalci.sessizellerv1",
+            "certificate_hash": "fd6ea2f36b387cb310c0c081e781fc5bb2ce642a"
+          }
+        },
+        {
+          "client_id": "70698293961-evnoq91r1ooh5a178msq15ireqbqpnc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cengizhanbalci.sessizellerv1",
+            "certificate_hash": "6eb15a69ee740514185e820076559d037afeeddd"
+          }
+        },
+        {
+          "client_id": "70698293961-mq6ip2hht1bt347bbp216gqriejd0brk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzUXj_G7U_XsNHXMmKgelJenK-ddaZtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70698293961-mq6ip2hht1bt347bbp216gqriejd0brk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

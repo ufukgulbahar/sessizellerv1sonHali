@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_sozluk"
+        android:icon="@drawable/library"
+        android:title="Sözlük" />
+    <item
+        android:id="@+id/navigation_ara"
+        android:icon="@drawable/search2"
+        android:title="Ara" />
+
+    <item
+        android:id="@+id/navigation_favori"
+        android:icon="@drawable/star"
+        android:title="Favori" />
+
+    <item
+        android:id="@+id/navigation_sinav"
+        android:icon="@drawable/exam2"
+        android:title="Sınav" />
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/profil"
+        android:title="Profil" />
+
+</menu>
